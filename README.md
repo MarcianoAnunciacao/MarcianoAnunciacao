@@ -1,4 +1,14 @@
-### Hi there 👋
+Hi there 👋
+My name is Marciano, Im a 40-year-old Backend Engineer with 11 years of experience, most of this time I spent working with Java and JDK technologies, in the last 2 years and a half I worked with Kotlin, Python and AWS to built microservices.
+
+I'm currently learning about GoLang and Crypto Currencies.
+I believe that technology can improve people lives and create a better world for everyone.
+
+Get in Touch 
+![](https://user-images.githubusercontent.com/755420/156621740-11b028ab-0f85-4201-ba9e-65706f392ba5.png) [](https://www.linkedin.com/in/marciano-anuncia%C3%A7%C3%A3o-30700a152/?locale=en_US)
+
+
+
 
 <!--
 **MarcianoAnunciacao/MarcianoAnunciacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
