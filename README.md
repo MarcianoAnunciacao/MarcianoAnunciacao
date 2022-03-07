@@ -36,9 +36,9 @@ I believe that technology can improve people lives and create a better world for
 <a href="https://www.datadoghq.com/" rel="nofollow"><img alt="Datadog" src="https://user-images.githubusercontent.com/755420/156638155-1e431b1a-adcc-42bb-b741-c0aea613c9cf.png"  width="60" height="80" /></a>
 
 
-![Marciano Anunciacao Status](https://github-readme-stats.vercel.app/api?username=MarcianoAnunciacao&show_icons=true)
+![Marciano Anunciacao Status](https://github-readme-stats.vercel.app/api?username=MarcianoAnunciacao&show_icons=true&theme=dark)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcianoAnunciacao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcianoAnunciacao&layout=default&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
