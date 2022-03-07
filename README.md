@@ -31,10 +31,20 @@ I believe that technology can improve people lives and create a better world for
 <a href="https://spring.io/" rel="nofollow"><img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"  width="70" height="90" /> <a href="https://hibernate.org/" rel="nofollow"><img alt="Hibernate" src="https://user-images.githubusercontent.com/755420/156642115-4ebe5ed9-c8ef-430b-a187-2df5865c2aa9.png"  width="70" height="90" />
   
 ## Agile tools and Code Management
-</a><a href="https://www.atlassian.com/software/jira" rel="nofollow"><img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"  width="70" height="90" /></a><a href="https://www.atlassian.com/software/bitbucket" rel="nofollow">  <img alt="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"  width="70" height="90" /></a><a href="https://github.com/" rel="nofollow">  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  width="70" height="90" /></a>
+<a href="https://www.atlassian.com/software/jira" rel="nofollow"><img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"  width="70" height="90" /></a><a href="https://www.atlassian.com/software/bitbucket" rel="nofollow">  <img alt="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"  width="70" height="90" /></a><a href="https://github.com/" rel="nofollow">  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  width="70" height="90" /></a>
 
+ ## Deployment and Build Tools
+<a href="https://gradle.org/" rel="nofollow"><img alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg"  width="70" height="90" /></a><a href="https://maven.apache.org/" rel="nofollow">  <img alt="Maven" src="https://user-images.githubusercontent.com/755420/157091942-6331eb70-ca95-4aa5-a60a-d046e4b86a5e.svg"  width="70" height="90" /><a href="https://www.jenkins.io/" rel="nofollow">  <img alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"  width="70" height="90" />
+
+ ## Integrated development environment (IDE)
+<a href="https://www.jetbrains.com/" rel="nofollow"><img alt="Intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  width="70" height="90" /></a><a href="https://code.visualstudio.com/" rel="nofollow">  <img alt="VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="70" height="90" />
+
+ ## Tests Frameworks
+<a href="https://junit.org/" rel="nofollow"><img alt="JUnit" src="https://user-images.githubusercontent.com/755420/157094174-f42abdd7-db47-44a8-855a-7a0a372448b7.png"  width="70" height="90" /></a><a href="https://code.visualstudio.com/" rel="nofollow">  <img alt="JMeter" src="https://user-images.githubusercontent.com/755420/157094638-8ec8c51b-a0bf-4136-9a5d-acc9722452ed.jpg"  width="70" height="90" />
+  
 ## Monitoring Tools
 <a href="https://www.datadoghq.com/" rel="nofollow"><img alt="Datadog" src="https://user-images.githubusercontent.com/755420/156638155-1e431b1a-adcc-42bb-b741-c0aea613c9cf.png"  width="60" height="80" /></a>
+
 
 
 ![Marciano Anunciacao Status](https://github-readme-stats.vercel.app/api?username=MarcianoAnunciacao&show_icons=true&theme=dark)
@@ -42,7 +52,8 @@ I believe that technology can improve people lives and create a better world for
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcianoAnunciacao&layout=default&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
+<!--![logo-maven](https://user-images.githubusercontent.com/755420/157091624-86cc0b9a-e354-445a-bb25-9bd2618e956e.png)
+
 **MarcianoAnunciacao/MarcianoAnunciacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
