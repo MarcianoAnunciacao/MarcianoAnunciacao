@@ -2,6 +2,7 @@
 
 My name is Marciano, Im a 40-year-old Backend Engineer with 11 years of experience, most of this time I spent working with Java and JDK technologies, in the last 2 years and a half I worked with Kotlin, Python and AWS to built microservices.
 
+I like to work in multi programming languages and technologies environments to keep learning things and feed my curiosity.
 
 :books: I'm currently learning about GoLang and Crypto Currencies.
 
