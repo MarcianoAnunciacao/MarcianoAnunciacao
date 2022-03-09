@@ -4,7 +4,7 @@ My name is Marciano, Im a 40-year-old Backend Engineer with 11 years of experien
 
 I like to work in multi programming languages and technologies environments to keep learning things and feed my curiosity.
 
-:books: I'm currently learning about GoLang, AWS, Blockchain and Crypto Currencies.
+:books: I'm currently learning about GoLang, AWS, Blockchain, Crypto Currencies and stock market.
 
 I believe that technology can improve people lives and create a better world for everyone.
 
